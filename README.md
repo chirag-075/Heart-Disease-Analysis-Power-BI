@@ -40,5 +40,14 @@ Power Query Editor – for data transformation
 DAX (Data Analysis Expressions) – for calculated fields and measures
 
 
+🧠 Key Insights
+Higher serum creatinine and lower ejection fraction are linked with higher death rates.
+
+Patients with anaemia or high blood pressure show a slightly increased mortality risk.
+
+Males show higher overall death events in the dataset.
+
+Younger patients (<50) tend to have lower risk indicators.
+
 
 
